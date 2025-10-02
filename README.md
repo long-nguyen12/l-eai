@@ -1,4 +1,4 @@
-# AI-Powered Edge-Based Safety Monitoring System for Power Transmission Corridors: A Case Study in Vietnam
+# L-EAI: AI-Powered Edge-Based Safety Monitoring System for Power Transmission Corridors: A Case Study in Vietnam
 **Authors:** Dinh Cong Nguyen
 
 ## Overview
