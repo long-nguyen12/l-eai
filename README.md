@@ -3,7 +3,7 @@
 
 ## Overview
 This repository provides the dataset used in the study *"AI-Powered Edge-Based Safety Monitoring System for Power Transmission Corridors: A Case Study in Vietnam."*  
-**Dataset Download:** This link will be available when the paper is accepted.
+**Dataset:** [link](https://drive.google.com/file/d/1Evf-c8cyD-6I2Ei095iasEZqKmESDQOV/view?usp=drive_link).
 
 ## Dataset Structure
 The dataset is organized as follows:
